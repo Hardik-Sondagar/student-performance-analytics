@@ -7,7 +7,7 @@ This system analyzes student academic records to uncover key trends impacting pe
 
 ## 🛠️ Tech Stack
 - **Database:** PostgreSQL
-- **Data Processing & EDA:** Python (Pandas, NumPy, Matplotlib/Seaborn)
+- **Data Processing & EDA:** Python (Pandas)
 - **Visualization:** Power BI
 - **Version Control:** Git & GitHub
 
